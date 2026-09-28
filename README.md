@@ -1,5 +1,27 @@
-# Gamma_Function
-Interactive plot to understand the gamma function.
+# Project Index (Non-Slideshow Work)
 
-Two matplotlib sliders allow the user to adjust the approximation of the factorial of a chosen value between 0 and 20.
-The function itself becomes very large very quick, so a total area between 0 and 100 was chosen which comfortably fits 20 factorial.
+## Goal
+Organize non-slideshow projects for clear portfolio display and quick navigation.
+
+## Included Projects
+- Gamma Function
+
+## Quick Navigation
+- [Data & Visualization](#data--visualization)
+- [Archive](#archive)
+
+## Data & Visualization
+### 1) Gamma Function
+- **Name:** Gamma Function
+- **Short description:** Interactive plot to understand the gamma function and factorial approximation.
+- **Tech stack:** Python, NumPy, Matplotlib
+- **Status:** Active
+- **Links:** [Source code](./gammaFunction.py)
+
+## Archive
+No archived projects yet.
+
+---
+- Naming is standardized in Title Case.
+- Duplicate entries removed.
+- Slideshow project is intentionally excluded.
